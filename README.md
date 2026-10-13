@@ -10,7 +10,7 @@ Most of what's below runs on React, Vite, Tailwind CSS, Supabase and Vercel.
 
 #### [Smyrna Tools](https://www.smyrnatools.com) · [Source](https://github.com/TaylorURL/smyrnatools-com)
 
-Smyrna Ready Mix is the largest ready-mix concrete supplier in the country, with 563 plants and 8,500 people across 24 states. Its Texas operations run on Smyrna Tools, which puts every mixer, tractor and trailer, every operator from first day to last, and the efficiency numbers for every plant behind one sign-in. I built it while I was running 13 of those plants. The browser never writes to the database; every change goes through a server function, and Postgres row-level security decides what each account can read.
+Smyrna Ready Mix is the largest family-owned ready-mix concrete producer in the country, with 563 plants and 8,500 team members across 24 states. Its Texas operations run on Smyrna Tools, which puts every mixer, tractor and trailer, every operator from first day to last, and fleet statistics down to each plant behind one sign-in. I built it while I was running 13 of those plants. The browser never writes to the database; every change goes through a server function, and Postgres row-level security decides what each account can read.
 
 #### [Hollingshead Harbor](https://hollingsheadharbor.com) · [Source](https://github.com/TaylorURL/hollingsheadharbor-com)
 
