@@ -1,6 +1,6 @@
 ## Trenton Taylor
 
-I run [TaylorURL](https://www.taylorurl.com), a small web development company in Baytown, Texas. We build websites for shops and trades around Baytown and Houston, then keep looking after them once they're live. The twelve client sites in the taylorurl.com portfolio average 98 on mobile and 100 on desktop in Google PageSpeed Insights.
+I run [TaylorURL](https://www.taylorurl.com), a small web development company in Baytown, Texas. We build websites for shops and trades around Baytown and Houston, then keep looking after them once they're live. The client sites in the taylorurl.com portfolio average 98 on mobile and 100 on desktop in Google PageSpeed Insights.
 
 Before TaylorURL I spent seven years at Smyrna Ready Mix, starting in the yard and finishing as District Manager over 13 concrete plants. We needed software, so I built it, and then I left to do this full time.
 
@@ -36,6 +36,10 @@ Offset, digital, screen, direct-to-film and wide-format presses in one Pasadena 
 
 The tree service Terry Lloyd started in Pasadena in 2000. Every town the trucks work has a page about its own trees: water oaks and pines in Pasadena, what salt air does to a canopy in La Porte, the old live oaks around Clear Lake. When a storm comes through, one setting puts a storm-response bar with the phone number across the top of every page. It scores 100 on mobile.
 
+#### [TireTracker](https://www.tiretracker.app)
+
+Service records for commercial tire shops. A technician logs tire positions, DOT codes, tread depths, photos and a signature at the roadside, and the fleet customer reads that history in their own portal instead of calling to ask. The app sends photos through an upload queue, so a tech on weak signal isn't left holding a job open. Next.js, Clerk, Prisma and Neon Postgres.
+
 #### [Compound Industrial Scale Services](https://ccscaleservices.com) · [Source](https://github.com/TaylorURL/ccscaleservicesinc-com)
 
 A family-owned shop in Huffman that calibrates industrial scales against certified test weights, repairs them, and sells the parts. Every part has its own page, so someone searching for a failed load cell lands on that load cell. There's no server and no database. Parts go on a quote list kept in the browser, and the customer sends sales one email with the make, model and capacity of their scale already filled in.
@@ -69,10 +73,6 @@ A trading desk and the platform it runs on. Its five risk rules are written into
 Truck merch: shirts, hoodies, caps and decals, and every order is an entry in the next giveaway. The front page holds the current giveaway, the latest drop, past winners and how entries work.
 
 ### Our Own Products
-
-#### [TireTracker](https://www.tiretracker.app)
-
-Service records for commercial tire shops. A technician logs tire positions, DOT codes, tread depths, photos and a signature at the roadside, and the fleet customer reads that history in their own portal instead of calling to ask. The app sends photos through an upload queue, so a tech on weak signal isn't left holding a job open. Next.js, Clerk, Prisma and Neon Postgres.
 
 #### [DomeBreak](https://domebreak.com) · [Source](https://github.com/TaylorURL/domebreak-com)
 
