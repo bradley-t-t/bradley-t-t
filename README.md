@@ -1,12 +1,12 @@
 ## Trenton Taylor
 
-I run [TaylorURL](https://www.taylorurl.com), a small web development company in Baytown, Texas. We build websites for shops and trades around Baytown and Houston, then keep looking after them once they're live. The client sites in the taylorurl.com portfolio average 98 on mobile and 100 on desktop in Google PageSpeed Insights.
+I run [TaylorURL](https://www.taylorurl.com), a small web development company in Baytown, Texas. I build websites for shops and trades around Baytown and Houston, then keep looking after them once they're live. The client sites in the taylorurl.com portfolio average 98 on mobile and 100 on desktop in Google PageSpeed Insights.
 
-Before TaylorURL I spent seven years at Smyrna Ready Mix, starting in the yard and finishing as District Manager over 13 concrete plants. We needed software, so I built it, and then I left to do this full time.
+Before TaylorURL I spent seven years at Smyrna Ready Mix, starting in the yard and finishing as District Manager over 13 concrete plants. The job needed software, so I built it, and then I left to do this full time.
 
 Most of what's below runs on React, Vite, Tailwind CSS, Supabase and Vercel.
 
-### Sites We've Built
+### Sites I've Built
 
 #### [Smyrna Tools](https://www.smyrnatools.com) · [Source](https://github.com/TaylorURL/smyrnatools-com)
 
@@ -72,7 +72,7 @@ A trading desk and the platform it runs on. Its five risk rules are written into
 
 Truck merch: shirts, hoodies, caps and decals, and every order is an entry in the next giveaway. The front page holds the current giveaway, the latest drop, past winners and how entries work.
 
-### Our Own Products
+### My Own Products
 
 #### [DomeBreak](https://domebreak.com) · [Source](https://github.com/TaylorURL/domebreak-com)
 
