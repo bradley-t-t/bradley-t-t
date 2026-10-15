@@ -1,5 +1,7 @@
 ## Trenton Taylor
 
+Note: I have repositories in my ORG as well as my private GitHub profile. See all to review my work.
+
 I'm a full-stack developer in Baytown, Texas, and I run [TaylorURL](https://www.taylorurl.com). I'm the only developer, so every project below is mine from end to end: the database schema and its security policies, the server functions, the payments, the front end and the hosting. The client sites in the taylorurl.com portfolio average 98 on mobile and 100 on desktop in Google PageSpeed Insights.
 
 Before TaylorURL I spent seven years at Smyrna Ready Mix, starting in the yard and finishing as District Manager over 13 concrete plants. The job needed software, so I built it, and its results are the first thing below.
