@@ -16,7 +16,7 @@ My work is split between this profile and the [TaylorURL org](https://github.com
 
 | Project | What it is |
 | :--- | :--- |
-| **[Smyrna Tools](https://www.smyrnatools.com)**<br>[source](https://github.com/TaylorURL/smyrnatools-com) | The operations app I built while running plants for Smyrna Ready Mix. It tracks trucks, operators, silo levels and plant numbers, and became the system for two Texas regions. By the time I left, customer satisfaction was up 20% and about 40% more jobs were delivered on time. |
+| **[Smyrna Tools](https://www.smyrnatools.com)**<br>[source](https://github.com/TaylorURL/smyrnatools-com) | The operations app I built while running plants for Smyrna Ready Mix. It tracks trucks, equipment, operators and plants, and became the system for two Texas regions. By the time I left, customer satisfaction was up 20% and about 40% more jobs were delivered on time. |
 | **[Hollingshead Harbor](https://hollingsheadharbor.com)**<br>[source](https://github.com/TaylorURL/hollingsheadharbor-com) | A marine company running barge charters and ports across 13 harbors. The site lets deckhands and wheelmen apply from their phone, resume and all. |
 | **[Dickinson Bayou Fleeting](https://dickinsonbayoufleeting.com)**<br>[source](https://github.com/TaylorURL/dickinsonbayoufleeting-com) | Two waterfront barge yards on Galveston Bay and in Freeport, leased by the month. Built to load fast on a dock with one bar of signal, so the rates and phone number show up first. |
 | **[Faded Barber Shop](https://faded-barbershop.com)**<br>[source](https://github.com/TaylorURL/fadedbarbershop-com) | A barber shop in Liberty. The whole page is a WebGL head of hair that gets shorter as you scroll, and your cursor shaves a path through it. |
@@ -25,10 +25,10 @@ My work is split between this profile and the [TaylorURL org](https://github.com
 | **[Southeast Arbor Care](https://southeastarbor.com)**<br>[source](https://github.com/TaylorURL/southeastarbor-com) | A tree service in Pasadena. Each town it serves gets its own page, and a storm banner with the phone number can go up on every page with one setting. |
 | **[TireTracker](https://www.tiretracker.app)** | Service records for commercial tire shops and the fleets they work on, so nobody argues about what was done to which tire. Works offline in the shop. |
 | **[Compound Industrial Scale Services](https://ccscaleservices.com)**<br>[source](https://github.com/TaylorURL/ccscaleservicesinc-com) | A scale calibration and repair shop in Huffman. Customers build a parts list and send it to sales as a quote request. |
-| **[Dylan Jordan Real Estate](https://djrxexcellence.com)**<br>[source](https://github.com/TaylorURL/djrxexcellence-com) | Listings for Dayton and the Liberty County towns around it. Buyers save homes, compare them side by side and ask Dylan questions right on the listing. |
-| **[DeluxFit by Angie](https://deluxfitbyangie.com)**<br>[source](https://github.com/TaylorURL/deluxfitbyangie-com) | A personal trainer's site and app. Clients sign up and pay for memberships or coaching, then message Angie and share files in the same place. |
+| **[Dylan Jordan Real Estate](https://djrxexcellence.com)**<br>[source](https://github.com/TaylorURL/djrxexcellence-com) | Listings for Dayton and the towns around it. Buyers save homes, compare them side by side and ask Dylan questions right on the listing. |
+| **[DeluxFit by Angie](https://deluxfitbyangie.com)**<br>[source](https://github.com/TaylorURL/deluxfitbyangie-com) | A personal trainer's site and app. Clients sign up and pay for memberships and sessions, then message Angie and share files in the same place. |
 | **[Delux Financial Solutions](https://deluxlavello.com)**<br>[source](https://github.com/TaylorURL/deluxlavello-com) | A credit-education practice in Houston, with every page in English and Spanish. |
-| **[SETX Football](https://www.setxfootball.org)**<br>[source](https://github.com/TaylorURL/setxfootball-com) | A youth football camp in Daisetta. Parents register and order shirts from their phone, and volunteers check payments and run check-in from a staff panel. |
+| **[SETX Football](https://www.setxfootball.org)**<br>[source](https://github.com/TaylorURL/setxfootball-com) | A youth football camp in Daisetta. Parents register and order shirts from their phone, and volunteers track payments and export the roster from a staff panel. |
 | **[Southbelt Repair and Supply](https://southbelt.taylorurl.com)**<br>[source](https://github.com/TaylorURL/southbeltinc-com) | Concrete batch plants, parts and repair crews. Every quote button sends the request to the right desk with the machine already named. |
 | **[Root & Rise](https://www.rootriseholdings.com)**<br>[source](https://github.com/TaylorURL/rootriseholdings-com) | A trading desk's platform. The trade journal blocks trades that break the risk rules, and market calls are posted before the outcome and scored after. |
 | **[SouthBound](https://southboundofficial.website)**<br>[source](https://github.com/TaylorURL/southboundofficial-website) | A merch store and giveaway site for a truck brand. |
@@ -37,7 +37,7 @@ All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio
 
 ### My own products
 
-- **[DomeBreak](https://domebreak.com)** ([source](https://github.com/TaylorURL/domebreak-com)): a real-time missile strategy game played on the real world map, with about 222 countries to pick from. Runs in the browser and as a desktop app, with online multiplayer.
+- **[DomeBreak](https://domebreak.com)** ([source](https://github.com/TaylorURL/domebreak-com)): a real-time missile strategy game played on the real world map, with about 222 countries to pick from. It's a desktop game with online multiplayer, and the site handles accounts, downloads and the wiki.
 - **[Sunday](https://github.com/TaylorURL/sunday)**: a set of rules that checks what an AI coding agent is about to do before it does it, like claiming tests pass after they failed. Written in Go.
 - **[M.T.O.A.](https://github.com/bradley-t-t/mtoa)**: the Claude Code setup I used to work in every day, bundled with a Raspberry Pi host and a voice assistant. Archived now.
 
