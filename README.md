@@ -11,8 +11,6 @@ My work is split between this profile and the [TaylorURL org](https://github.com
   <img src="assets/languages-light.svg" alt="Language fluency chart" width="500">
 </picture>
 
-Day to day that's React, Next.js, Vite, Tailwind, Node, Supabase, Postgres, Stripe and Vercel, plus WebGL when a project calls for it.
-
 [Start a project](https://www.taylorurl.com/start) · [trenton@taylorurl.com](mailto:trenton@taylorurl.com) · [taylorurl.com](https://www.taylorurl.com)
 
 ---
