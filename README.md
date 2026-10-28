@@ -6,16 +6,10 @@ Before TaylorURL I spent seven years at Smyrna Ready Mix. I started in the yard 
 
 My work is split between this profile and the [TaylorURL org](https://github.com/TaylorURL), so check both.
 
-```
-Java        ██████████████████████████████ 100%
-HTML        ██████████████████████████████ 100%
-CSS         ██████████████████████████████ 100%
-TypeScript  ███████████████░░░░░░░░░░░░░░░  50%
-JavaScript  ███████████████░░░░░░░░░░░░░░░  50%
-Python      ███████████████░░░░░░░░░░░░░░░  50%
-SQL         ███████████████░░░░░░░░░░░░░░░  50%
-Go          ███░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <img src="assets/languages-light.svg" alt="Language fluency chart" width="500">
+</picture>
 
 Day to day that's React, Next.js, Vite, Tailwind, Node, Supabase, Postgres, Stripe and Vercel, plus WebGL when a project calls for it.
 
