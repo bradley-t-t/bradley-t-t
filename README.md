@@ -1,6 +1,6 @@
 ## Hi, I'm Trenton
 
-I'm a full-stack developer in Baytown, Texas, and I run [TaylorURL](https://www.taylorurl.com), a small web studio. I'm the only developer, so I build every project start to finish: database, back end, payments, front end and hosting.
+I'm a full-stack developer in Baytown, Texas, and I run [TaylorURL](https://www.taylorurl.com), a small web studio. I build every project start to finish: database, back end, payments, front end and hosting.
 
 Before TaylorURL I spent seven years at Smyrna Ready Mix. I started in the yard and worked up to District Manager over 13 concrete plants. The job needed software, so I started building it.
 
@@ -16,14 +16,13 @@ My work is split between this profile and the [TaylorURL org](https://github.com
 
 | Project | What it is |
 | :--- | :--- |
-| **[Smyrna Tools](https://www.smyrnatools.com)**<br>[source](https://github.com/TaylorURL/smyrnatools-com) | The operations app I built while running plants for Smyrna Ready Mix. It tracks trucks, equipment, operators and plants, and became the system for two Texas regions. By the time I left, customer satisfaction was up 20% and about 40% more jobs were delivered on time. |
+| **[Smyrna Tools](https://www.smyrnatools.com)**<br>[source](https://github.com/TaylorURL/smyrnatools-com) | The operations app I built while running plants for Smyrna Ready Mix. It tracks trucks, equipment, operators and plants, and became the system for two Texas regions. |
 | **[Hollingshead Harbor](https://hollingsheadharbor.com)**<br>[source](https://github.com/TaylorURL/hollingsheadharbor-com) | A marine company running barge charters and ports across 13 harbors. The site lets deckhands and wheelmen apply from their phone, resume and all. |
 | **[Dickinson Bayou Fleeting](https://dickinsonbayoufleeting.com)**<br>[source](https://github.com/TaylorURL/dickinsonbayoufleeting-com) | Two waterfront barge yards on Galveston Bay and in Freeport, leased by the month. Built to load fast on a dock with one bar of signal, so the rates and phone number show up first. |
 | **[Faded Barber Shop](https://faded-barbershop.com)**<br>[source](https://github.com/TaylorURL/fadedbarbershop-com) | A barber shop in Liberty. The whole page is a WebGL head of hair that gets shorter as you scroll, and your cursor shaves a path through it. |
 | **[Speedway 146](https://baytowngokarts.com)**<br>[source](https://github.com/TaylorURL/baytowngocarts-com) | A go-kart track in Baytown. Parents buy wristbands and book birthday parties online through Stripe instead of calling. |
 | **[Impressiva Printing](https://impressivaprinting.com)**<br>[source](https://github.com/TaylorURL/impressivaprinting-com) | A print shop in Pasadena. Customers upload artwork, approve proofs and track their job, and staff run the queue from a dashboard. |
 | **[Southeast Arbor Care](https://southeastarbor.com)**<br>[source](https://github.com/TaylorURL/southeastarbor-com) | A tree service in Pasadena. Each town it serves gets its own page, and a storm banner with the phone number can go up on every page with one setting. |
-| **[TireTracker](https://www.tiretracker.app)** | Service records for commercial tire shops and the fleets they work on, so nobody argues about what was done to which tire. Works offline in the shop. |
 | **[Compound Industrial Scale Services](https://ccscaleservices.com)**<br>[source](https://github.com/TaylorURL/ccscaleservicesinc-com) | A scale calibration and repair shop in Huffman. Customers build a parts list and send it to sales as a quote request. |
 | **[Dylan Jordan Real Estate](https://djrxexcellence.com)**<br>[source](https://github.com/TaylorURL/djrxexcellence-com) | Listings for Dayton and the towns around it. Buyers save homes, compare them side by side and ask Dylan questions right on the listing. |
 | **[DeluxFit by Angie](https://deluxfitbyangie.com)**<br>[source](https://github.com/TaylorURL/deluxfitbyangie-com) | A personal trainer's site and app. Clients sign up and pay for memberships and sessions, then message Angie and share files in the same place. |
@@ -33,21 +32,23 @@ My work is split between this profile and the [TaylorURL org](https://github.com
 | **[Root & Rise](https://www.rootriseholdings.com)**<br>[source](https://github.com/TaylorURL/rootriseholdings-com) | A trading desk's platform. The trade journal blocks trades that break the risk rules, and market calls are posted before the outcome and scored after. |
 | **[SouthBound](https://southboundofficial.website)**<br>[source](https://github.com/TaylorURL/southboundofficial-website) | A merch store and giveaway site for a truck brand. |
 
-All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio average 98 on mobile and 100 on desktop in Google PageSpeed Insights.
+All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio average 99 on mobile and 100 on desktop in Google PageSpeed Insights.
 
 ### My own products
 
 - **[DomeBreak](https://domebreak.com)** ([source](https://github.com/TaylorURL/domebreak-com)): a real-time missile strategy game played on the real world map, with about 222 countries to pick from. It's a desktop game with online multiplayer, and the site handles accounts, downloads and the wiki.
+- **[TireTracker](https://www.tiretracker.app)**: service records for commercial tire shops and the fleets they work on, so nobody argues about what was done to which tire. Works offline in the shop.
 - **[Sunday](https://github.com/TaylorURL/sunday)**: a set of rules that checks what an AI coding agent is about to do before it does it, like claiming tests pass after they failed. Written in Go.
 - **[M.T.O.A.](https://github.com/bradley-t-t/mtoa)**: the Claude Code setup I used to work in every day, bundled with a Raspberry Pi host and a voice assistant. Archived now.
 
 ### Side projects
 
-- **[Sunday Voice](https://github.com/bradley-t-t/mtoa/tree/main/voice)**: a voice assistant on a speaker cube, with all the speech running on a Raspberry Pi at home instead of the cloud.
+- **[Sunday Voice](https://github.com/bradley-t-t/mtoa/tree/main/voice)**: a voice assistant on a speaker cube. Speech recognition and the voice run locally on a Raspberry Pi at home, and Claude Code answers. This is the archived copy. It lives in a private repo now.
 - **[kOS Flight Scripts](https://github.com/bradley-t-t/kos-flight-scripts)**: autopilots for Kerbal Space Program. A booster flies back and lands on a barge (0.57 m off target on its best flight), and a capsule docks with a station on its own.
 - **[Telemetry Ground Station](https://github.com/bradley-t-t/telemetry-ground-station)**: mission control for a simulated two-stage rocket, with a live dashboard that flags problems as they happen. Plain Java 21.
-- **[CryptoFort](https://github.com/bradley-t-t/cryptofort)**: an encrypted credential vault on npm that lets an AI agent use a secret without ever seeing it.
-- **[Viltrum Empire](https://github.com/bradley-t-t/stellaris-vilrumite-empire-mod)**: a Stellaris mod with over 3,000 Steam Workshop subscribers. It adds seven factions from *Invincible*, with their own events and translations in 10 languages.
+- **[CryptoFort](https://github.com/bradley-t-t/cryptofort)**: an encrypted credential vault on npm, with an MCP server that by default lets an AI agent find credentials by name without reading the secrets.
+- **[Viltrum Empire](https://github.com/bradley-t-t/stellaris-vilrumite-empire-mod)**: a Stellaris mod that adds seven factions from *Invincible*, each with its own species, traits and events.
+- **[Holdback](https://github.com/bradley-t-t/holdback)** and **[claude-handoff](https://github.com/bradley-t-t/claude-handoff)**: Claude Code hooks. Holdback stops Claude from changing anything when you only asked a question. claude-handoff takes a request Claude turned down to another AI and brings the answer back.
 - **Prison Architect mods**: [laser fences and doors](https://github.com/bradley-t-t/prison-architect-sci-fi-security), [sci-fi furniture](https://github.com/bradley-t-t/prison-architect-sci-fi-objects), [robot staff](https://github.com/bradley-t-t/prison-architect-robot-staff), a [crematorium](https://github.com/bradley-t-t/prison-architect-crematorium), a [contraband checkpoint](https://github.com/bradley-t-t/prison-architect-contraband-checkpoint-scanner) and an [auto-hire terminal](https://github.com/bradley-t-t/prison-architect-auto-hire).
 
 ---
