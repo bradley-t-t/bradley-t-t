@@ -38,18 +38,12 @@ All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio
 </details>
 
 <details>
-<summary><strong>My own products</strong></summary>
+<summary><strong>Side projects</strong></summary>
 
 - **[DomeBreak](https://domebreak.com)** ([source](https://github.com/TaylorURL/domebreak-com)): a real-time missile strategy game played on the real world map, with about 222 countries to pick from. It's a desktop game with online multiplayer, and the site handles accounts, downloads and the wiki.
 - **[TireTracker](https://www.tiretracker.app)**: service records for commercial tire shops and the fleets they work on, so nobody argues about what was done to which tire. Works offline in the shop.
 - **[Sunday](https://github.com/TaylorURL/sunday)**: a set of rules that checks what an AI coding agent is about to do before it does it, like claiming tests pass after they failed. Written in Go.
 - **[M.T.O.A.](https://github.com/bradley-t-t/mtoa)**: the Claude Code setup I used to work in every day, bundled with a Raspberry Pi host and a voice assistant. Archived now.
-
-</details>
-
-<details>
-<summary><strong>Side projects</strong></summary>
-
 - **[Sunday Voice](https://github.com/bradley-t-t/mtoa/tree/main/voice)**: a voice assistant on a speaker cube. Speech recognition and the voice run locally on a Raspberry Pi at home, and Claude Code answers. This is the archived copy. It lives in a private repo now.
 - **[kOS Flight Scripts](https://github.com/bradley-t-t/kos-flight-scripts)**: autopilots for Kerbal Space Program. A booster flies back and lands on a barge (0.57 m off target on its best flight), and a capsule docks with a station on its own.
 - **[Telemetry Ground Station](https://github.com/bradley-t-t/telemetry-ground-station)**: mission control for a simulated two-stage rocket, with a live dashboard that flags problems as they happen. Plain Java 21.
