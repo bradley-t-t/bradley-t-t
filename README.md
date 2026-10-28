@@ -49,7 +49,13 @@ All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio
 - [Telemetry Ground Station](https://github.com/bradley-t-t/telemetry-ground-station): mission control for a simulated two-stage rocket, with a live dashboard that flags problems as they happen. Plain Java 21.
 - [CryptoFort](https://github.com/bradley-t-t/cryptofort): an encrypted credential vault on npm, with an MCP server that by default lets an AI agent find credentials by name without reading the secrets.
 - [Viltrum Empire](https://github.com/bradley-t-t/stellaris-vilrumite-empire-mod): a Stellaris mod that adds seven factions from *Invincible*, each with its own species, traits and events.
-- [Holdback](https://github.com/bradley-t-t/holdback) and **[claude-handoff](https://github.com/bradley-t-t/claude-handoff)**: Claude Code hooks. Holdback stops Claude from changing anything when you only asked a question. claude-handoff takes a request Claude turned down to another AI and brings the answer back.
-- Prison Architect mods: [laser fences and doors](https://github.com/bradley-t-t/prison-architect-sci-fi-security), [sci-fi furniture](https://github.com/bradley-t-t/prison-architect-sci-fi-objects), [robot staff](https://github.com/bradley-t-t/prison-architect-robot-staff), a [crematorium](https://github.com/bradley-t-t/prison-architect-crematorium), a [contraband checkpoint](https://github.com/bradley-t-t/prison-architect-contraband-checkpoint-scanner) and an [auto-hire terminal](https://github.com/bradley-t-t/prison-architect-auto-hire).
+- [Holdback](https://github.com/bradley-t-t/holdback): a Claude Code hook. It stops Claude from changing anything when you only asked a question.
+- [claude-handoff](https://github.com/bradley-t-t/claude-handoff): a Claude Code hook. When Claude turns a request down, it sends it to another AI and brings the answer back.
+- [Sci-Fi Security](https://github.com/bradley-t-t/prison-architect-sci-fi-security): a Prison Architect mod that adds laser fences and laser doors.
+- [Sci-Fi Objects](https://github.com/bradley-t-t/prison-architect-sci-fi-objects): a Prison Architect mod that gives furniture, doors, floors and walls a sci-fi look.
+- [Robot Staff](https://github.com/bradley-t-t/prison-architect-robot-staff): a Prison Architect mod that turns your staff into robots and adds drones.
+- [Crematorium](https://github.com/bradley-t-t/prison-architect-crematorium): a Prison Architect mod for cremating or vaporizing the dead on site.
+- [Contraband Checkpoint Scanner](https://github.com/bradley-t-t/prison-architect-contraband-checkpoint-scanner): a Prison Architect mod that adds a checkpoint room where guards search every prisoner.
+- [Auto-Hire](https://github.com/bradley-t-t/prison-architect-auto-hire): a Prison Architect mod that keeps your staff at the numbers you set.
 
 </details>
