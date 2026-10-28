@@ -6,7 +6,18 @@ Before TaylorURL I spent seven years at Smyrna Ready Mix. I started in the yard 
 
 My work is split between this profile and the [TaylorURL org](https://github.com/TaylorURL), so check both.
 
-I usually work with React, Next.js, TypeScript, Vite, Tailwind, Supabase, Postgres, Stripe, Node and Vercel. I also use Go, Java, Python and WebGL when a project calls for it.
+```
+Java        ██████████████████████████████ 100%
+HTML        ██████████████████████████████ 100%
+CSS         ██████████████████████████████ 100%
+TypeScript  ███████████████░░░░░░░░░░░░░░░  50%
+JavaScript  ███████████████░░░░░░░░░░░░░░░  50%
+Python      ███████████████░░░░░░░░░░░░░░░  50%
+SQL         ███████████████░░░░░░░░░░░░░░░  50%
+Go          ███░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+```
+
+Day to day that's React, Next.js, Vite, Tailwind, Node, Supabase, Postgres, Stripe and Vercel, plus WebGL when a project calls for it.
 
 [Start a project](https://www.taylorurl.com/start) · [trenton@taylorurl.com](mailto:trenton@taylorurl.com) · [taylorurl.com](https://www.taylorurl.com)
 
