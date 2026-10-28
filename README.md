@@ -46,10 +46,11 @@ All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio
 <summary><strong>Side projects</strong></summary>
 
 - [DomeBreak](https://domebreak.com) ([source](https://github.com/TaylorURL/domebreak-com)): a real-time missile strategy game played on the real world map, with about 222 countries to pick from. It's a desktop game with online multiplayer, and the site handles accounts, downloads and the wiki.
+- [Critical Path Drill](https://github.com/bradley-t-t/critical-path-drill): a desktop app that teaches you to work out a project schedule by hand. Ten lessons, and a blank you get wrong in the diagram explains why the number works the way it does.
 - [TireTracker](https://www.tiretracker.app): service records for commercial tire shops and the fleets they work on, so nobody argues about what was done to which tire. Works offline in the shop.
 - [Sunday](https://github.com/TaylorURL/sunday): a set of rules that checks what an AI coding agent is about to do before it does it, like claiming tests pass after they failed. Written in Go.
-- [M.T.O.A.](https://github.com/bradley-t-t/mtoa): the Claude Code setup I used to work in every day, bundled with a Raspberry Pi host and a voice assistant. Archived now.
-- [Sunday Voice](https://github.com/bradley-t-t/mtoa/tree/main/voice): a voice assistant on a speaker cube. Speech recognition and the voice run locally on a Raspberry Pi at home, and Claude Code answers. This is the archived copy. It lives in a private repo now.
+- [M.T.O.A.](https://github.com/bradley-t-t/mtoa): the Claude Code setup I used to work in every day, bundled with a Raspberry Pi host and a voice assistant.
+- [Sunday Voice](https://github.com/bradley-t-t/sunday-voice): a voice assistant on a speaker cube. Speech recognition and the voice run locally on a Raspberry Pi at home, and Claude Code answers. It's a private repo.
 - [CryptoFort](https://github.com/bradley-t-t/cryptofort): an encrypted credential vault on npm, with an MCP server that by default lets an AI agent find credentials by name without reading the secrets.
 - [Holdback](https://github.com/bradley-t-t/holdback): a Claude Code hook. It stops Claude from changing anything when you only asked a question.
 - [baton](https://github.com/bradley-t-t/baton): a Claude Code hook. When Claude turns a request down, it sends it to another AI and brings the answer back.
