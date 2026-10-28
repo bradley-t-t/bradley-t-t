@@ -12,7 +12,8 @@ My work is split between this profile and the [TaylorURL org](https://github.com
 
 ---
 
-### Client work
+<details>
+<summary><strong>Client work</strong></summary>
 
 | Project | What it is |
 | :--- | :--- |
@@ -34,14 +35,20 @@ My work is split between this profile and the [TaylorURL org](https://github.com
 
 All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio average 99 on mobile and 100 on desktop in Google PageSpeed Insights.
 
-### My own products
+</details>
+
+<details>
+<summary><strong>My own products</strong></summary>
 
 - **[DomeBreak](https://domebreak.com)** ([source](https://github.com/TaylorURL/domebreak-com)): a real-time missile strategy game played on the real world map, with about 222 countries to pick from. It's a desktop game with online multiplayer, and the site handles accounts, downloads and the wiki.
 - **[TireTracker](https://www.tiretracker.app)**: service records for commercial tire shops and the fleets they work on, so nobody argues about what was done to which tire. Works offline in the shop.
 - **[Sunday](https://github.com/TaylorURL/sunday)**: a set of rules that checks what an AI coding agent is about to do before it does it, like claiming tests pass after they failed. Written in Go.
 - **[M.T.O.A.](https://github.com/bradley-t-t/mtoa)**: the Claude Code setup I used to work in every day, bundled with a Raspberry Pi host and a voice assistant. Archived now.
 
-### Side projects
+</details>
+
+<details>
+<summary><strong>Side projects</strong></summary>
 
 - **[Sunday Voice](https://github.com/bradley-t-t/mtoa/tree/main/voice)**: a voice assistant on a speaker cube. Speech recognition and the voice run locally on a Raspberry Pi at home, and Claude Code answers. This is the archived copy. It lives in a private repo now.
 - **[kOS Flight Scripts](https://github.com/bradley-t-t/kos-flight-scripts)**: autopilots for Kerbal Space Program. A booster flies back and lands on a barge (0.57 m off target on its best flight), and a capsule docks with a station on its own.
@@ -50,6 +57,8 @@ All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio
 - **[Viltrum Empire](https://github.com/bradley-t-t/stellaris-vilrumite-empire-mod)**: a Stellaris mod that adds seven factions from *Invincible*, each with its own species, traits and events.
 - **[Holdback](https://github.com/bradley-t-t/holdback)** and **[claude-handoff](https://github.com/bradley-t-t/claude-handoff)**: Claude Code hooks. Holdback stops Claude from changing anything when you only asked a question. claude-handoff takes a request Claude turned down to another AI and brings the answer back.
 - **Prison Architect mods**: [laser fences and doors](https://github.com/bradley-t-t/prison-architect-sci-fi-security), [sci-fi furniture](https://github.com/bradley-t-t/prison-architect-sci-fi-objects), [robot staff](https://github.com/bradley-t-t/prison-architect-robot-staff), a [crematorium](https://github.com/bradley-t-t/prison-architect-crematorium), a [contraband checkpoint](https://github.com/bradley-t-t/prison-architect-contraband-checkpoint-scanner) and an [auto-hire terminal](https://github.com/bradley-t-t/prison-architect-auto-hire).
+
+</details>
 
 ---
 
