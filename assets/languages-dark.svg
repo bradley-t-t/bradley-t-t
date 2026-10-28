@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="240" viewBox="0 0 500 240" role="img" aria-label="Language fluency chart">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="480" viewBox="0 0 500 480" role="img" aria-label="Language fluency chart">
   <title>Language fluency chart</title>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">
     <!-- Java -->
@@ -41,5 +41,45 @@
     <rect x="92" y="220" width="356" height="10" rx="5" fill="#30363d"/>
     <rect x="92" y="220" width="35.6" height="10" rx="5" fill="#00ADD8"/>
     <text x="496" y="229" fill="#9198a1" text-anchor="end">10%</text>
+    <!-- Awk -->
+    <text x="2" y="259" fill="#e6edf3" font-weight="500">Awk</text>
+    <rect x="92" y="250" width="356" height="10" rx="5" fill="#30363d"/>
+    <rect x="92" y="250" width="35.6" height="10" rx="5" fill="#c30e9b"/>
+    <text x="496" y="259" fill="#9198a1" text-anchor="end">10%</text>
+    <!-- GLSL -->
+    <text x="2" y="289" fill="#e6edf3" font-weight="500">GLSL</text>
+    <rect x="92" y="280" width="356" height="10" rx="5" fill="#30363d"/>
+    <rect x="92" y="280" width="35.6" height="10" rx="5" fill="#5686a5"/>
+    <text x="496" y="289" fill="#9198a1" text-anchor="end">10%</text>
+    <!-- KerboScript -->
+    <text x="2" y="319" fill="#e6edf3" font-weight="500">KerboScript</text>
+    <rect x="92" y="310" width="356" height="10" rx="5" fill="#30363d"/>
+    <rect x="92" y="310" width="35.6" height="10" rx="5" fill="#41adf0"/>
+    <text x="496" y="319" fill="#9198a1" text-anchor="end">10%</text>
+    <!-- Lua -->
+    <text x="2" y="349" fill="#e6edf3" font-weight="500">Lua</text>
+    <rect x="92" y="340" width="356" height="10" rx="5" fill="#30363d"/>
+    <rect x="92" y="340" width="35.6" height="10" rx="5" fill="#000080"/>
+    <text x="496" y="349" fill="#9198a1" text-anchor="end">10%</text>
+    <!-- Objective-C -->
+    <text x="2" y="379" fill="#e6edf3" font-weight="500">Objective-C</text>
+    <rect x="92" y="370" width="356" height="10" rx="5" fill="#30363d"/>
+    <rect x="92" y="370" width="35.6" height="10" rx="5" fill="#438eff"/>
+    <text x="496" y="379" fill="#9198a1" text-anchor="end">10%</text>
+    <!-- PowerShell -->
+    <text x="2" y="409" fill="#e6edf3" font-weight="500">PowerShell</text>
+    <rect x="92" y="400" width="356" height="10" rx="5" fill="#30363d"/>
+    <rect x="92" y="400" width="35.6" height="10" rx="5" fill="#012456"/>
+    <text x="496" y="409" fill="#9198a1" text-anchor="end">10%</text>
+    <!-- Shell -->
+    <text x="2" y="439" fill="#e6edf3" font-weight="500">Shell</text>
+    <rect x="92" y="430" width="356" height="10" rx="5" fill="#30363d"/>
+    <rect x="92" y="430" width="35.6" height="10" rx="5" fill="#89e051"/>
+    <text x="496" y="439" fill="#9198a1" text-anchor="end">10%</text>
+    <!-- Swift -->
+    <text x="2" y="469" fill="#e6edf3" font-weight="500">Swift</text>
+    <rect x="92" y="460" width="356" height="10" rx="5" fill="#30363d"/>
+    <rect x="92" y="460" width="35.6" height="10" rx="5" fill="#F05138"/>
+    <text x="496" y="469" fill="#9198a1" text-anchor="end">10%</text>
   </g>
 </svg>
