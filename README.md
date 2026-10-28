@@ -47,6 +47,6 @@ All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio
 - [Sunday Voice](https://github.com/bradley-t-t/mtoa/tree/main/voice): a voice assistant on a speaker cube. Speech recognition and the voice run locally on a Raspberry Pi at home, and Claude Code answers. This is the archived copy. It lives in a private repo now.
 - [CryptoFort](https://github.com/bradley-t-t/cryptofort): an encrypted credential vault on npm, with an MCP server that by default lets an AI agent find credentials by name without reading the secrets.
 - [Holdback](https://github.com/bradley-t-t/holdback): a Claude Code hook. It stops Claude from changing anything when you only asked a question.
-- [claude-handoff](https://github.com/bradley-t-t/claude-handoff): a Claude Code hook. When Claude turns a request down, it sends it to another AI and brings the answer back.
+- [baton](https://github.com/bradley-t-t/baton): a Claude Code hook. When Claude turns a request down, it sends it to another AI and brings the answer back.
 
 </details>
