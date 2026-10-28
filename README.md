@@ -45,7 +45,6 @@ All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio
 - [Sunday](https://github.com/TaylorURL/sunday): a set of rules that checks what an AI coding agent is about to do before it does it, like claiming tests pass after they failed. Written in Go.
 - [M.T.O.A.](https://github.com/bradley-t-t/mtoa): the Claude Code setup I used to work in every day, bundled with a Raspberry Pi host and a voice assistant. Archived now.
 - [Sunday Voice](https://github.com/bradley-t-t/mtoa/tree/main/voice): a voice assistant on a speaker cube. Speech recognition and the voice run locally on a Raspberry Pi at home, and Claude Code answers. This is the archived copy. It lives in a private repo now.
-- [Telemetry Ground Station](https://github.com/bradley-t-t/telemetry-ground-station): mission control for a simulated two-stage rocket, with a live dashboard that flags problems as they happen. Plain Java 21.
 - [CryptoFort](https://github.com/bradley-t-t/cryptofort): an encrypted credential vault on npm, with an MCP server that by default lets an AI agent find credentials by name without reading the secrets.
 - [Holdback](https://github.com/bradley-t-t/holdback): a Claude Code hook. It stops Claude from changing anything when you only asked a question.
 - [claude-handoff](https://github.com/bradley-t-t/claude-handoff): a Claude Code hook. When Claude turns a request down, it sends it to another AI and brings the answer back.
