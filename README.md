@@ -47,12 +47,12 @@ All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio
 - [Critical Path Drill](https://github.com/bradley-t-t/critical-path-drill): a desktop app that teaches you to work out a project schedule by hand. Ten lessons, and a blank you get wrong in the diagram explains why the number works the way it does.
 - [TireTracker](https://www.tiretracker.app): service records for commercial tire shops and the fleets they work on, so nobody argues about what was done to which tire. Works offline in the shop.
 - [Resourcing Humans](https://resourced.careers): grades employers A to F on how they treat the people who apply. It reads each company's public job board and every question on its applications, then puts the best-graded employers first. A Chrome extension shows the grade on Indeed, LinkedIn and the rest.
-- [Sunday](https://github.com/TaylorURL/sunday): a set of rules that checks what an AI coding agent is about to do before it does it, like claiming tests pass after they failed. Written in Go.
 - [M.T.O.A.](https://github.com/bradley-t-t/mtoa): the Claude Code setup I used to work in every day, bundled with a Raspberry Pi host and a voice assistant.
 - [Sunday Voice](https://github.com/bradley-t-t/sunday-voice): a voice assistant on a speaker cube. Speech recognition and the voice run locally on a Raspberry Pi at home, and Claude Code answers. It's a private repo.
 - [CryptoFort](https://github.com/bradley-t-t/cryptofort): an encrypted credential vault on npm, with an MCP server that by default lets an AI agent find credentials by name without reading the secrets.
 - [Holdback](https://github.com/bradley-t-t/holdback): a Claude Code hook. It stops Claude from changing anything when you only asked a question.
 - [baton](https://github.com/bradley-t-t/baton): a Claude Code hook. When Claude turns a request down, it sends it to another AI and brings the answer back.
-- [chainwork](https://github.com/TaylorURL/chainwork): the outreach behind TaylorURL, lifted out so another site can run it. A chain of letters and calls is one file, and the engine works out who's owed what today. It's a private repo.
+- [Tether](https://github.com/bradley-t-t/tether): a Claude Code hook. A second model reads Claude's draft against what I asked and sends it back if it misses, so the only reply I see is one that passed. It's a private repo.
+- [chainwork](https://github.com/TaylorURL/chainwork): the outreach behind TaylorURL, lifted out so another site can run it. A chain of letters and calls is one file, and the engine works out who's owed what today.
 
 </details>
