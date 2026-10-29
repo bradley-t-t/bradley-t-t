@@ -52,5 +52,6 @@ All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio
 - [CryptoFort](https://github.com/bradley-t-t/cryptofort): an encrypted credential vault on npm, with an MCP server that by default lets an AI agent find credentials by name without reading the secrets.
 - [Holdback](https://github.com/bradley-t-t/holdback): a Claude Code hook. It stops Claude from changing anything when you only asked a question.
 - [baton](https://github.com/bradley-t-t/baton): a Claude Code hook. When Claude turns a request down, it sends it to another AI and brings the answer back.
+- [chainwork](https://github.com/TaylorURL/chainwork): the outreach behind TaylorURL, lifted out so another site can run it. A chain of letters and calls is one file, and the engine works out who's owed what today. It's a private repo.
 
 </details>
