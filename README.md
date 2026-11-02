@@ -36,8 +36,6 @@ My work is split between this profile and the [TaylorURL org](https://github.com
 | **[Root & Rise](https://www.rootriseholdings.com)**<br>[source](https://github.com/TaylorURL/rootriseholdings-com) | A trading desk's platform. The trade journal blocks trades that break the risk rules, and market calls are posted before the outcome and scored after. |
 | **[SouthBound](https://southboundofficial.website)**<br>[source](https://github.com/TaylorURL/southboundofficial-website) | A merch store and giveaway site for a truck brand. |
 
-All the client sites in the [taylorurl.com](https://www.taylorurl.com) portfolio average 99 on mobile and 100 on desktop in Google PageSpeed Insights.
-
 </details>
 
 <details>
