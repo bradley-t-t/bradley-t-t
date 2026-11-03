@@ -48,7 +48,6 @@ My work is split between this profile and the [TaylorURL org](https://github.com
 - [M.T.O.A.](https://github.com/bradley-t-t/mtoa): the Claude Code setup I used to work in every day, bundled with a Raspberry Pi host and a voice assistant. It's a private repo.
 - [Sunday Voice](https://github.com/bradley-t-t/sunday-voice): a voice assistant on a speaker cube. Speech recognition and the voice run locally on a Raspberry Pi at home, and Claude Code answers. It's a private repo.
 - [CryptoFort](https://github.com/bradley-t-t/cryptofort): an encrypted credential vault on npm, with an MCP server that by default lets an AI agent find credentials by name without reading the secrets.
-- [Holdback](https://github.com/bradley-t-t/holdback): a Claude Code hook. It stops Claude from changing anything when you only asked a question.
 - [baton](https://github.com/bradley-t-t/baton): a Claude Code hook. When Claude turns a request down, it sends it to another AI and brings the answer back.
 - [Tether](https://github.com/bradley-t-t/tether): a Claude Code hook. A second model reads Claude's draft against what I asked and sends it back if it misses, so the only reply I see is one that passed. It's a private repo.
 - [chainwork](https://github.com/TaylorURL/chainwork): the outreach behind TaylorURL, lifted out so another site can run it. A chain of letters and calls is one file, and the engine works out who's owed what today.
